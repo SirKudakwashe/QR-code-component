@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendMentor]()
-- Live Site URL: [github]()
+- Solution URL: [frontendMentor](https://wwwfrontendmentoriosolutionsresponsive-qr-code-component-using-css-AMsjwJkv02)
+- Live Site URL: [github](https://sirkudakwashe.github.io/QR-code-component/)
 
 ### Built with
 
